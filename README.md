@@ -1,5 +1,5 @@
 # DSA
-This repo is for practicing DSA
+This repo is for contributing in HACKTOBERFEST
 
 
 

@@ -6,6 +6,10 @@ b = 2 ** 3      #use ** to use power of.
 print(b)
 print("-------")
 
+c = 3 ** 2
+print(c)
+print("-------")
+
 print("Lenovo\'s Lappy")     #use \ to include 's 
 print("-------")
 

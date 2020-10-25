@@ -6,10 +6,10 @@ b = 2 ** 3      #use ** to use power of.
 print(b)
 print("-------")
 
-print("Jatin\'s Lappy")     #use \ to include 's 
+print("Lenovo\'s Lappy")     #use \ to include 's 
 print("-------")
 
-print(r"Lenovo/n sjss")     #use (r) to print same as it is in " ".
+print(r"Lenovo/n Laptop")     #use (r) to print same as it is in " ".
 print("-------")
 
 myname = ("Jatin Yadav")

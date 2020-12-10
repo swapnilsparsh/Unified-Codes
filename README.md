@@ -1,5 +1,5 @@
-# Rotten Scripts
-Rotten Scripts contains amazing and awesome scripts written in Python, JavaScript, Kotlin, C, and more. Consider this repository as your personal space to find or add any new script that can make life easier for us and the Open Source community too, as a Developer, and find a utility of coding to burst out of boredom. Get started with coding exhilarating scripts that you can use to download PDFs from an Online Source or just to randomly like everyone's Instagram Post.
+# Unified Codes
+Unified Codes contains amazing and awesome scripts written in C, Python, Java, Kotlin, and more. Consider this repository as your personal space to find or add any new script that can make life easier for us and the Open Source community too, as a Developer, and find a utility of coding to burst out of boredom. Get started with coding exhilarating scripts that you can use to download PDFs from an Online Source or just to randomly like everyone's Instagram Post.
 
 ## Contributors ✨
 Thanks goes to these wonderful people:

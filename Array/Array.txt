@@ -1,3 +1,0 @@
-------Find the address at any index of array-----
-If i have to find address of element at index value(i) 2 then formula will be:
-Base Address+i*(size of data type)

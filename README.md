@@ -11,6 +11,8 @@ Thanks goes to these wonderful people:
     </tr>
 </table>
 
+# License
+
 # Connect with me
 <div align="center">
 <a href="https://github.com/swapnilsparsh" target="_blank">

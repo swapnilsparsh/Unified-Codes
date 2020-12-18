@@ -12,6 +12,7 @@ Thanks goes to these wonderful people:
 </table>
 
 # License
+[MIT](https://github.com/swapnilsparsh/Unified-Codes/blob/master/LICENSE)
 
 # Connect with me
 <div align="center">

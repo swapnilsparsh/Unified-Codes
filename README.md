@@ -13,6 +13,9 @@ Thanks goes to these wonderful people:
 </table>
 
 # Languages used in this project 💻 
+<ol>
+    <li>C</li>
+</ol>
 
 
 # License

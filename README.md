@@ -15,6 +15,9 @@ Thanks goes to these wonderful people:
 # Languages used in this project 💻 
 <ol>
     <li>C</li>
+    <li>Java</li>
+    <li>Kotlin</li>
+    <li>Python</li?
 </ol>
 
 

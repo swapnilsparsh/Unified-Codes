@@ -12,7 +12,7 @@ Thanks goes to these wonderful people:
     </tr>
 </table>
 
-# Languages used in this project 💻 
+# Tech Stack 💻 
 <ol>
     <li>C</li>
     <li>Java</li>

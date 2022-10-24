@@ -1,0 +1,30 @@
+// C program to demonstrates cancellation of self thread
+// using thread id
+#include <stdio.h>
+#include <stdlib.h>
+#include <pthread.h>
+
+void* calls(void* ptr)
+{
+	printf("GeeksForGeeks");
+
+	// To exit the current thread
+	// pthread_self() return the particular thread id
+	pthread_cancel(pthread_self());
+	
+	return NULL;
+}
+
+int main()
+{
+	// NULL when no attribute
+	pthread_t thread;
+
+	// calls is a function name
+	pthread_create(&thread, NULL, calls, NULL);
+
+	// Waiting for when thread is completed
+	pthread_join(thread, NULL);
+
+	return 0;
+}
